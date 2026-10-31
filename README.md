@@ -173,7 +173,17 @@ After booting, Android shows its welcome (setup) screen, which confirms the VM i
 
 </div>
 
----
+#### 🧭 Welcome Screen Setup Page
+
+The welcome screen is followed by the Android setup page.
+
+<div align="center">
+
+![Android welcome screen setup page](11-android-setup-welcome.png)
+
+*Figure 5.1 – `05-1-android-welcome-screen-setup-page.png`: Welcome screen setup page.*
+
+</div>
 
 ## 🔌 VMware Network Configuration
 
