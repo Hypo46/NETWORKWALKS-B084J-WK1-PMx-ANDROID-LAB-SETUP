@@ -57,7 +57,7 @@ The project sets up **Android-x86 9.0** as a virtual machine in **VMware Worksta
 
 ## 🎥 Project Demonstration
 
-[Watch the Android-x86 VMware Lab Demo](images/10-android-connectivity-tests.png)](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)
+[Watch the Android-x86 VMware Lab Demo](10-android-connectivity-tests.png)](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)
 
 **[▶ Watch the full project demonstration on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)**
 
