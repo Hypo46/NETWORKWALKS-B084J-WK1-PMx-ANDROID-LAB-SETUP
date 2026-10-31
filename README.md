@@ -57,7 +57,7 @@ The project sets up **Android-x86 9.0** as a virtual machine in **VMware Worksta
 
 ## 🎥 Project Demonstration
 
-[![Watch the Android-x86 VMware Lab Demo](images/10-android-connectivity-tests.png)](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)
+[Watch the Android-x86 VMware Lab Demo](images/10-android-connectivity-tests.png)](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)
 
 **[▶ Watch the full project demonstration on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522425726763941889/)**
 
@@ -121,7 +121,7 @@ Create a new virtual machine in VMware Workstation and attach the Android-x86 9.
 
 <div align="center">
 
-![Android-x86 VM in VMware Workstation](images/01-vmware-android-vm.png)
+![Android-x86 VM in VMware Workstation](01-vmware-android-vm.png)
 
 *Figure 1 – `01-vmware-android-vm.png`: The Android-x86 virtual machine in VMware Workstation.*
 
@@ -135,7 +135,7 @@ Boot the VM from the ISO and choose the installation option. The installer needs
 
 <div align="center">
 
-![Android-x86 installer partition screen](images/02-android-x86-partition.png)
+![Android-x86 installer partition screen](02-android-x86-partition.png)
 
 *Figure 2 – `02-android-x86-partition.png`: Partition step of the Android-x86 installer.*
 
@@ -147,7 +147,7 @@ Continue through the installer until Android-x86 is installed, then boot into it
 
 <div align="center">
 
-![Android-x86 installation and boot](images/03-android-x86-install-boot.png)
+![Android-x86 installation and boot](03-android-x86-install-boot.png)
 
 *Figure 3 – `03-android-x86-install-boot.png`: Android-x86 installation and first boot stage.*
 
@@ -155,7 +155,7 @@ Continue through the installer until Android-x86 is installed, then boot into it
 
 <div align="center">
 
-![Android-x86 boot logo](images/04-android-x86-boot-logo.png)
+![Android-x86 boot logo](04-android-x86-boot-logo.png)
 
 *Figure 4 – `04-android-x86-boot-logo.png`: Android-x86 boot logo while the system starts.*
 
@@ -167,7 +167,7 @@ After booting, Android shows its welcome (setup) screen, which confirms the VM i
 
 <div align="center">
 
-![Android welcome screen](images/05-android-welcome-screen.png)
+![Android welcome screen](05-android-welcome-screen.png)
 
 *Figure 5 – `05-android-welcome-screen.png`: Android welcome screen after the first boot.*
 
@@ -210,7 +210,7 @@ After saving, open **Network Details** to verify the assigned IP address.
 
 <div align="center">
 
-![Android network settings using DHCP](images/06-android-network-settings-dhcp.png)
+![Android network settings using DHCP](06-android-network-settings-dhcp.png)
 
 *Figure 6 – `06-android-network-settings-dhcp.png`: VirtWifi network settings with DHCP before the change.*
 
@@ -218,7 +218,7 @@ After saving, open **Network Details** to verify the assigned IP address.
 
 <div align="center">
 
-![Android static IP configuration](images/07-android-static-ip-configuration.png)
+![Android static IP configuration](07-android-static-ip-configuration.png)
 
 *Figure 7 – `07-android-static-ip-configuration.png`: Static IP configuration entered under Advanced options.*
 
@@ -226,7 +226,7 @@ After saving, open **Network Details** to verify the assigned IP address.
 
 <div align="center">
 
-![Android network details](images/08-android-network-details.png)
+![Android network details](08-android-network-details.png)
 
 *Figure 8 – `08-android-network-details.png`: Network Details screen used to check the assigned address.*
 
@@ -234,7 +234,7 @@ After saving, open **Network Details** to verify the assigned IP address.
 
 <div align="center">
 
-![Android static IP confirmed](images/09-android-static-ip-confirmed.png)
+![Android static IP confirmed](09-android-static-ip-confirmed.png)
 
 *Figure 9 – `09-android-static-ip-confirmed.png`: Static IP configuration confirmed.*
 
@@ -273,7 +273,7 @@ ping -c 4 10.0.0.9
 
 <div align="center">
 
-![Android terminal ping tests](images/10-android-connectivity-tests.png)
+![Android terminal ping tests](10-android-connectivity-tests.png)
 
 *Figure 10 – `10-android-connectivity-tests.png`: Connectivity tests run from the Android terminal.*
 
